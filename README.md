@@ -1,5 +1,5 @@
 # Superstar-Farm-Website
-This is a mini project which is Node-Farm. Using node.js file system. 🗽👩‍🌾
+This is a mini farm website to showcase different product with their features and price .
 
 ## Technologies Used :
 
